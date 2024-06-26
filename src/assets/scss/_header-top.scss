@@ -1,0 +1,42 @@
+// .heaeder-top {
+//     // padding: 20px 20px 0;
+// }
+
+.header-top .container {
+  padding: 20px 20px 0;
+}
+.heaeder-top-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.header-top-language {
+  font-weight: 400;
+  font-size: 14px;
+  color: #fff;
+  font-family: Helvetica;
+  padding: 5px 12px 6px 13px;
+  background: #dfad2a;
+  border-radius: 14px;
+  align-items: center;
+  display: flex;
+  gap: 6px;
+  cursor: pointer;
+}
+
+.header-top-info {
+  font-weight: 400;
+  font-size: 16px;
+  color: #727272;
+  font-family: Helvetica;
+  span {
+    color: rgb(16, 172, 172);
+    margin-right: 10px;
+  }
+}
+
+.header-top-search {
+  cursor: pointer;
+}

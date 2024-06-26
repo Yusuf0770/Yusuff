@@ -1,0 +1,36 @@
+header {
+    background: #2D2C31;
+}
+
+nav ul a {
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: Helvetica;
+    transition: all .3s ease;
+}
+
+nav ul a:hover {
+    color: #DFAD2A;
+}
+
+nav ul a span {
+    color: #DFAD2A;
+}
+
+nav ul {
+    display: flex;
+    gap: 50px;
+}
+
+.header-wrap {
+    display: flex;
+    align-items: center;
+    gap: 173px;
+    margin-bottom: 30px;
+}
+
+.reklama {
+    margin-bottom: 30px;
+    margin-left: -10px;
+}

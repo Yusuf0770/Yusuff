@@ -1,0 +1,31 @@
+.video-wrap {
+  display: flex;
+}
+
+.video-title {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.4;
+  color: #2d2c31;
+  font-family: Helvetica;
+}
+
+.video-card-img {
+  // display: block;
+  margin-bottom: 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.video-card-img:hover {
+  opacity: 0.8;
+}
+
+.video-card-img:active {
+  opacity: 0.6;
+  // width: 600px;
+}
+
+.video-title {
+  margin-bottom: 10px;
+}

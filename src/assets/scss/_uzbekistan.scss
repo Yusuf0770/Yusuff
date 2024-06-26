@@ -1,0 +1,75 @@
+.uzb-title {
+  font-weight: 700;
+  font-size: 24px;
+  color: #000000;
+  font-family: Helvetica;
+  margin-bottom: 10px;
+}
+
+hr {
+  margin-bottom: 30px;
+}
+.politicy-titlee {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: Helvetica;
+  color: #dfad2a;
+  margin-bottom: 10px;
+}
+
+.politicy-descc {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.4;
+  font-family: Helvetica;
+  color: #727272;
+  width: 618px;
+  margin-bottom: 20px;
+  max-width: 276px;
+}
+
+
+
+.uzb-card-wrap {
+  display: flex;
+  gap: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.uzb-card img {
+  margin-bottom: 10px;
+}
+.uzb-card {
+  margin-bottom: 60px;
+  cursor: pointer;
+  display: flex;
+  height: auto;
+  flex-direction: column;
+}
+
+.uzb-tt-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.all-title {
+  font-weight: 400;
+  font-size: 18px;
+  font-family: Helvetica;
+  cursor: pointer;
+}
+
+
+.uzb-card-img {
+  width: 300px;
+  height: 200px;
+}
+
+
+.card-title {
+  color:#727272;
+  margin-bottom: 10px;
+}
